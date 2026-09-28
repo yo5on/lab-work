@@ -12,15 +12,19 @@
 
 ---
 
-A collection of programming laboratory exercises and practice work.
+<samp>A collection of programming laboratory exercises and practice work.</samp>
 
-## Contents
+---
 
-### C Programming
+<div align="center"><samp><b>Contents</b></samp></div>
 
-The `c program/` directory contains C programming laboratory exercises and related practice programs.
+<samp><b>C Programming</b></samp>
 
-## Repository Structure
+<samp>The <code>c program/</code> directory contains C programming laboratory exercises and related practice programs.</samp>
+
+---
+
+<div align="center"><samp><b>Repository Structure</b></samp></div>
 
 ```text
 lab-work/
@@ -28,15 +32,22 @@ lab-work/
     └── C programming exercises
 ```
 
-## Purpose
+---
 
-This repository is used to organize academic lab work, programming exercises, and practice implementations in one place.
+<div align="center"><samp><b>Purpose</b></samp></div>
 
-## Languages
+<samp>This repository is used to organize academic lab work, programming exercises, and practice implementations in one place.</samp>
 
-- C
+---
 
-## Author
+<div align="center"><samp><b>Languages</b></samp></div>
 
-**Yoson**  
-GitHub: https://github.com/yo5on
+- <samp>C</samp>
+
+---
+
+<div align="center"><samp><b>Author</b></samp></div>
+
+<samp><b>Yoson</b></samp>
+
+<samp>GitHub: https://github.com/yo5on</samp>
